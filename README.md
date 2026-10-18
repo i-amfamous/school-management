@@ -38,10 +38,7 @@ python3 -m http.server 8000
 ```
 
 3. Visit:
-
-```text
-http://localhost:8000
-```
+https://school-management-pied-six.vercel.app/
 
 ## Deployment
 
